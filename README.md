@@ -1,2 +1,9 @@
 # prueba.mockend.json
-registros
+{
+  "id" : 1,
+  "email" : "alberto@gmail.com"
+  "nombre" : "Alberto",
+  "apellidos" : "Ruiz Perez"
+  "avatar" : "Drago"
+
+}
